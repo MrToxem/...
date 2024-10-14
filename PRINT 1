@@ -1,0 +1,23 @@
+# int => Integer
+
+int_variable = 100
+
+#float
+float_variable = 13.13
+
+#str -> string
+string_variable13 = "Das ist Toll, ich bin Travis"
+
+print('Anfang')
+
+
+print("Anfang des Programms")
+name = input("Bitte Name eingeben: ")
+print("Mein Name ist " + name)
+age = input("Bitte Alter eingeben: ")
+print("Mein Alter ist " + age)
+hobby = input("Bitte Hobby eingeben: ")
+print("Mein Hobby ist " + hobby)
+
+
+print("Ende des Programms")
